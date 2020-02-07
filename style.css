@@ -1,0 +1,26 @@
+body {
+    background: black;
+
+    color: white;
+
+}
+
+.box{
+    width: 1200px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.content{
+    margin-top: 120px;
+    margin-bottom: 57px;
+}
+
+.text{
+    margin-top: 88px;
+    font-size: 15px;
+}
+
+span{color:#01bbed}
